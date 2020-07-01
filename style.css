@@ -1,0 +1,135 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    clear: both;
+}
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+    
+}
+.orange-highlight{
+    color: rgb(39, 170, 202)
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    width: 100%;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+section{
+    height: 500px;
+    clear: both;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, cyan, blue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.ancour-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+   
+.aspiration-area{
+    width: 100%;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}   
+.aspiration-area p {
+    text-align: left;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    
+    background-color: white;
+
+}
+.experience-area{
+    width: 100%;
+    text-align: center;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: right;
+}
+.third-width img{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#be-center{
+    text-align: center;
+}
+
+.fourth-section{
+    width: 100%;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+}    
+.fourth-width{
+    text-align: center;
+}
+.fifth-width{
+    text-align: center;
+
+}
+   
+
+.fifth-width p{
+    color: white;
+}
+.fifth-width h3{
+    text-align: center;
+}
+.masseage-button{
+    text-decoration: none;
+}
+.masseage-button p{
+    
+    background-image: linear-gradient(90deg, rgb(255, 122, 233), rgb(255, 71, 172));
+    padding: 30px 20px;
+    border-radius: 5px;
+    margin: 15px 300px;
+    color: white;
+    font-weight: 700;
+}
+
+}
+
+#be-cool{
+    color: black;
+}
+.footer-sec{
+    text-align: center;
+}
+
+
